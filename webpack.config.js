@@ -22,10 +22,6 @@ module.exports = {
           }
         }
       },
-      // {
-      //   test: /\.(gif|png|jpe?g|svg|mp3|m4a|ogg|wav|json$)$/i,
-      //   type: 'asset/resource'
-      // },
     ]
   },
   plugins: [
@@ -37,10 +33,6 @@ module.exports = {
       patterns: [
        { from: "./src/img", to: "./img"},
        { from: "./src/audio", to: "./audio"},
-      //  { from: "./src/js", to: "./js"},
-      //  { from: "./src/voice", to: "./voice"},
-      //  { from: "./src/music", to: "./music"},
-      //  { from: "./src/index.html", to: "./index.html" }
       ]
    }),
     new HtmlWebpackPlugin({
