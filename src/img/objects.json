@@ -1,0 +1,1470 @@
+{
+	"textures": [
+		{
+			"image": "objects-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 997,
+				"h": 1036
+			},
+			"scale": 0.434,
+			"frames": [
+				{
+					"filename": "fog",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 174
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 174,
+						"h": 174
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "green",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 161
+					},
+					"frame": {
+						"x": 177,
+						"y": 1,
+						"w": 161,
+						"h": 161
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "deposits/big 01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 159
+					},
+					"frame": {
+						"x": 340,
+						"y": 1,
+						"w": 161,
+						"h": 159
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/big 03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 161,
+						"h": 151
+					},
+					"frame": {
+						"x": 503,
+						"y": 1,
+						"w": 161,
+						"h": 151
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/huge 03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 161,
+						"h": 151
+					},
+					"frame": {
+						"x": 666,
+						"y": 1,
+						"w": 161,
+						"h": 151
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/huge 02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 148
+					},
+					"frame": {
+						"x": 829,
+						"y": 1,
+						"w": 161,
+						"h": 148
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/big 02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 161,
+						"h": 147
+					},
+					"frame": {
+						"x": 829,
+						"y": 151,
+						"w": 161,
+						"h": 147
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/huge 01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 161,
+						"h": 146
+					},
+					"frame": {
+						"x": 503,
+						"y": 154,
+						"w": 161,
+						"h": 146
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "debris/debris tile 71",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 161,
+						"h": 143
+					},
+					"frame": {
+						"x": 340,
+						"y": 162,
+						"w": 161,
+						"h": 143
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/big 05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 161,
+						"h": 143
+					},
+					"frame": {
+						"x": 177,
+						"y": 164,
+						"w": 161,
+						"h": 143
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/big 04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 161,
+						"h": 139
+					},
+					"frame": {
+						"x": 666,
+						"y": 154,
+						"w": 161,
+						"h": 139
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/small 02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 161,
+						"h": 138
+					},
+					"frame": {
+						"x": 666,
+						"y": 295,
+						"w": 161,
+						"h": 138
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/huge 04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 161,
+						"h": 137
+					},
+					"frame": {
+						"x": 503,
+						"y": 302,
+						"w": 161,
+						"h": 137
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "debris/debris tile 92",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 133
+					},
+					"frame": {
+						"x": 340,
+						"y": 307,
+						"w": 161,
+						"h": 133
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/small 05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 161,
+						"h": 133
+					},
+					"frame": {
+						"x": 1,
+						"y": 177,
+						"w": 161,
+						"h": 133
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/huge 05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 161,
+						"h": 131
+					},
+					"frame": {
+						"x": 164,
+						"y": 309,
+						"w": 161,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/small 03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 22,
+						"w": 161,
+						"h": 131
+					},
+					"frame": {
+						"x": 1,
+						"y": 312,
+						"w": 161,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 78,
+						"w": 161,
+						"h": 83
+					},
+					"frame": {
+						"x": 829,
+						"y": 300,
+						"w": 161,
+						"h": 83
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 91,
+						"w": 161,
+						"h": 70
+					},
+					"frame": {
+						"x": 829,
+						"y": 385,
+						"w": 161,
+						"h": 70
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile279",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 101,
+						"w": 161,
+						"h": 60
+					},
+					"frame": {
+						"x": 666,
+						"y": 435,
+						"w": 161,
+						"h": 60
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile280",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 111,
+						"w": 161,
+						"h": 50
+					},
+					"frame": {
+						"x": 503,
+						"y": 441,
+						"w": 161,
+						"h": 50
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 117,
+						"w": 161,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 457,
+						"w": 161,
+						"h": 44
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "debris/debris tile 181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 156,
+						"h": 131
+					},
+					"frame": {
+						"x": 164,
+						"y": 442,
+						"w": 156,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 120,
+						"w": 155,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 445,
+						"w": 155,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "debris/debris tile 262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 7,
+						"w": 153,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 488,
+						"w": 153,
+						"h": 149
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/small 04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 10,
+						"w": 149,
+						"h": 151
+					},
+					"frame": {
+						"x": 322,
+						"y": 442,
+						"w": 149,
+						"h": 151
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/small 01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 8,
+						"w": 149,
+						"h": 145
+					},
+					"frame": {
+						"x": 156,
+						"y": 575,
+						"w": 149,
+						"h": 145
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile281",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 148,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 639,
+						"w": 148,
+						"h": 51
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 1,
+						"y": 692,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 473,
+						"y": 493,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 307,
+						"y": 595,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 620,
+						"y": 497,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile261",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 95,
+						"w": 45,
+						"h": 66
+					},
+					"frame": {
+						"x": 767,
+						"y": 497,
+						"w": 45,
+						"h": 66
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 454,
+						"y": 598,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 307,
+						"y": 700,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 148,
+						"y": 722,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 1,
+						"y": 797,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 1,
+						"y": 902,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 814,
+						"y": 503,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 601,
+						"y": 602,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 454,
+						"y": 703,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 295,
+						"y": 805,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 148,
+						"y": 827,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 148,
+						"y": 932,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 295,
+						"y": 910,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 748,
+						"y": 608,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 601,
+						"y": 707,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 442,
+						"y": 808,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "deposits/fuel",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 36,
+						"w": 93,
+						"h": 83
+					},
+					"frame": {
+						"x": 895,
+						"y": 608,
+						"w": 93,
+						"h": 83
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 442,
+						"y": 913,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 98,
+						"w": 84,
+						"h": 63
+					},
+					"frame": {
+						"x": 895,
+						"y": 693,
+						"w": 84,
+						"h": 63
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 748,
+						"y": 713,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 589,
+						"y": 812,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 589,
+						"y": 917,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "exit sign/0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 24,
+						"w": 145,
+						"h": 103
+					},
+					"frame": {
+						"x": 736,
+						"y": 818,
+						"w": 145,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 82,
+						"w": 113,
+						"h": 79
+					},
+					"frame": {
+						"x": 883,
+						"y": 818,
+						"w": 113,
+						"h": 79
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile264",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 68,
+						"w": 110,
+						"h": 93
+					},
+					"frame": {
+						"x": 883,
+						"y": 899,
+						"w": 110,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "cutouts/tile082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 161,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 87,
+						"w": 134,
+						"h": 74
+					},
+					"frame": {
+						"x": 736,
+						"y": 923,
+						"w": 134,
+						"h": 74
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c62becfe75840c9490c819ca25ac3887:523ed1162d06391f674a70ce54f783e1:59ef814ed690207385099c21d38242d5$"
+	}
+}

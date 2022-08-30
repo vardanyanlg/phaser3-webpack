@@ -31,8 +31,9 @@ module.exports = {
     }),
     new CopyPlugin({
       patterns: [
+       { from: "./src/font", to: "./font"},
        { from: "./src/img", to: "./img"},
-       { from: "./src/audio", to: "./audio"},
+      //  { from: "./src/audio", to: "./audio"},
       ]
    }),
     new HtmlWebpackPlugin({

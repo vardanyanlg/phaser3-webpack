@@ -1,0 +1,70 @@
+{
+	"textures": [
+		{
+			"image": "nocompress.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 184,
+				"h": 92
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "player_avatar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 90,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "resources_avatar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 90
+					},
+					"frame": {
+						"x": 93,
+						"y": 1,
+						"w": 90,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:725a1c3a8dc09b5c0e45753abaf5aff0:6fc0864f7745cfdd4def5e6a2e585108:c0bbae80fb6753a6d7f9dde56012ceea$"
+	}
+}

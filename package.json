@@ -14,6 +14,7 @@
     "babel-loader": "^8.2.5",
     "copy-webpack-plugin": "^11.0.0",
     "html-webpack-plugin": "^5.5.0",
+    "phaser3-rex-plugins": "^1.1.72",
     "terser-webpack-plugin": "^5.3.1",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2",
